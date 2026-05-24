@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Safe-zone centered white Book bounding container (height 66dp approx) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,24 C34,21.8 35.8,20 38,20 H70 C72.2,20 74,21.8 74,24 V80 C74,82.2 72.2,84 70,84 H38 C35.8,84 34,82.2 34,80 Z" />
+        
+    <!-- Main Navy Educational Cover padding -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M38,23 H70 V81 H38 Z" />
+        
+    <!-- Gold Ribbon bookmark drop -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M51,20 H57 V38 L54,35 L51,38 Z" />
+        
+    <!-- Large elegant "A" character represented for Translation -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,60 L50,44 H54 L60,60 H55.5 L54,55 H50 L48.5,60 Z M50.8,51.5 H53.2 L52,47 Z" />
+        
+    <!-- Simulated glossary lines at bottom cover -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M44,68 H60 V70 H44 Z M44,74 H54 V76 H44 Z" />
+        
+</vector>

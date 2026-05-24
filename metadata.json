@@ -1,0 +1,6 @@
+{
+  "name": "LexiInglés",
+  "description": "Diccionario bilingüe interactivo, guía completa de tiempos verbales y práctica situacional de vocabulario con pronunciación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
